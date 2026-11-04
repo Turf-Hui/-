@@ -71,8 +71,9 @@ business-data-analysis-UCI/
 │   ├── dashboard_离线版.html  # 单文件离线版，双击即开、断网可用（推荐提交）
 │   └── assets/         # 离线版静态资源缓存，随项目交付，复现时无需联网
 ├── docs/
-│   ├── 期末大论文.docx  # 期末大论文（≥3000 字，含图表）
-│   ├── 论文正文.md     # 论文 Markdown 源
+│   ├── 期末大论文_课程模板版.docx  # **最终提交版**（课程模板格式，含封面/评分表，18 图）
+│   ├── 期末大论文.docx  # 06_paper.py 由 Markdown 自动生成的可复现版（17 图）
+│   ├── 论文正文.md     # 论文 Markdown 源（论文改动以课程模板版为最终准绳）
 │   └── 合规声明.md     # 数据来源合规声明
 ├── requirements.txt
 └── README.md

@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 02_clean.py —— 数据清洗与治理
-================================
-完成课程要求的"基础治理"：
-  - 缺失值处理、异常值识别、重复值去除
-  - 类型与日期格式统一
-  - 多表主外键对齐（星型模型：fact_orders + dim_customers + dim_products）
-  - 导出 CSV / JSON / SQLite，便于复用与验证
 """
 from __future__ import annotations
 import os

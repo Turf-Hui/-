@@ -1,0 +1,16 @@
+{
+  "clean_stat": {
+    "n_missing": 0,
+    "n_dup": 373,
+    "n_outlier": 2471
+  },
+  "fk_stat": {
+    "bad_customer": 0,
+    "bad_product": 0
+  },
+  "fact_rows": 33123,
+  "gmv_net": 702387.29,
+  "total_profit": 305237.84,
+  "date_min": "2010-12-01",
+  "date_max": "2011-12-09"
+}

@@ -1,0 +1,2 @@
+MAPE,RMSE,backtest_period,granularity,model,n_obs,note
+18.41,3370.45,末8周,周度(W-MON),"Holt-Winters(add,add,4)",54,UCI 数据约12个月，月度序列不足以拟合12期季节项，故改用周度+4周季节

@@ -1,0 +1,1050 @@
+﻿customer_id,name,gender,age,province,city,register_date,member_level
+12348,王丹,男,45,Finland,Finland,2010-12-16,3
+12350,刘旭,男,38,Norway,Norway,2011-02-02,2
+12352,宋超,女,37,Norway,Norway,2011-02-16,1
+12363,李敏,男,37,Unspecified,Unspecified,2011-08-22,4
+12378,郑婷婷,男,58,Switzerland,Switzerland,2011-08-02,1
+12380,徐萍,男,49,Belgium,Belgium,2011-06-07,5
+12388,廖晨,男,34,Australia,Australia,2011-09-25,1
+12395,杨建军,男,46,Belgium,Belgium,2010-12-17,1
+12398,卓雪,女,42,Switzerland,Switzerland,2011-10-25,2
+12405,李帆,男,18,Finland,Finland,2011-07-14,1
+12407,毛燕,男,27,Belgium,Belgium,2011-07-28,1
+12408,姚佳,男,43,Belgium,Belgium,2011-03-24,2
+12414,李英,男,57,Austria,Austria,2011-05-06,1
+12415,梁波,男,37,Australia,Australia,2011-07-13,2
+12423,田桂兰,男,33,Belgium,Belgium,2011-03-21,2
+12428,万帅,男,41,Finland,Finland,2011-03-30,1
+12429,陈云,女,32,Denmark,Denmark,2010-12-09,3
+12432,黄利,男,36,Norway,Norway,2011-06-20,2
+12433,魏斌,女,39,Norway,Norway,2010-12-01,1
+12434,何丽,女,27,Australia,Australia,2011-03-24,4
+12435,孙桂英,男,49,Denmark,Denmark,2011-09-21,1
+12444,叶华,男,25,Norway,Norway,2011-08-10,2
+12451,阎玉梅,女,24,Switzerland,Switzerland,2011-10-05,5
+12457,刘楠,女,42,Switzerland,Switzerland,2011-04-14,3
+12471,张瑜,女,48,Germany,Germany,2011-02-03,1
+12474,樊桂芳,男,42,Germany,Germany,2011-02-25,1
+12476,刘艳,男,38,Germany,Germany,2010-12-13,2
+12478,姜琳,女,36,Greece,Greece,2011-12-06,1
+12484,黄成,男,34,Spain,Spain,2011-08-28,1
+12488,李辉,男,52,France,France,2011-11-30,2
+12490,张晨,女,43,France,France,2011-09-07,1
+12493,唐海燕,男,35,France,France,2011-06-27,5
+12500,唐丹丹,女,31,Germany,Germany,2011-03-03,1
+12510,边磊,女,47,Spain,Spain,2011-07-20,3
+12512,叶玲,女,52,Israel,Israel,2011-10-04,3
+12518,李淑兰,男,51,Germany,Germany,2011-11-11,1
+12520,孙燕,女,29,Germany,Germany,2011-07-20,4
+12522,林宁,男,36,Germany,Germany,2011-10-19,2
+12524,贺璐,女,34,Germany,Germany,2011-01-10,1
+12527,张瑞,男,37,Germany,Germany,2011-02-18,1
+12530,唐小红,女,49,Germany,Germany,2011-10-11,4
+12540,李畅,女,56,Spain,Spain,2011-08-24,2
+12558,刘秀英,男,44,USA,USA,2011-12-02,3
+12562,李桂芝,男,32,France,France,2011-10-14,2
+12567,佘阳,男,39,France,France,2011-06-13,2
+12569,潘志强,男,58,Germany,Germany,2011-08-09,2
+12576,郭玉华,女,41,Poland,Poland,2011-11-04,1
+12585,凌杨,男,36,Germany,Germany,2011-04-19,2
+12588,赵柳,男,37,Finland,Finland,2011-10-31,2
+12590,庄欣,男,44,Germany,Germany,2011-05-12,3
+12594,刘鑫,女,30,Italy,Italy,2011-11-02,4
+12597,王娜,女,33,Spain,Spain,2011-03-16,3
+12600,王飞,女,50,Germany,Germany,2011-05-19,3
+12610,王超,女,43,Italy,Italy,2011-11-17,1
+12616,王静,男,41,France,France,2011-09-05,3
+12619,董楠,女,51,Germany,Germany,2011-08-15,4
+12621,沈淑华,女,31,Germany,Germany,2011-05-12,1
+12626,贾桂荣,男,36,Germany,Germany,2011-06-30,2
+12627,李雪梅,女,43,Germany,Germany,2011-11-29,1
+12633,周丹丹,男,43,Germany,Germany,2011-08-02,2
+12644,袁帅,男,23,Germany,Germany,2011-08-02,1
+12645,赵雪,男,34,Germany,Germany,2011-08-22,1
+12648,刘坤,男,38,Germany,Germany,2011-07-08,2
+12654,李博,女,44,Germany,Germany,2011-11-29,3
+12657,孙宇,女,43,France,France,2011-10-28,5
+12662,孟帅,女,39,Germany,Germany,2011-02-03,1
+12664,蔡洋,男,18,Finland,Finland,2011-04-21,1
+12668,纪静,女,39,Germany,Germany,2011-11-28,1
+12679,赵秀华,男,40,France,France,2011-10-12,1
+12680,洪飞,男,69,France,France,2011-09-11,1
+12681,吴冬梅,男,37,France,France,2011-06-05,1
+12682,纪淑英,女,43,France,France,2011-07-19,2
+12683,周桂芝,女,53,France,France,2011-03-23,1
+12689,张红霞,女,49,France,France,2011-08-04,3
+12700,谢飞,男,56,France,France,2011-10-05,2
+12704,王荣,男,23,Finland,Finland,2011-08-26,2
+12705,王凤兰,女,28,Germany,Germany,2011-05-22,1
+12709,龚波,男,33,Germany,Germany,2011-01-25,2
+12710,袁静,女,21,Germany,Germany,2011-07-01,2
+12712,李艳,女,40,Germany,Germany,2011-05-23,1
+12714,冯婷婷,女,28,France,France,2011-05-17,4
+12719,成文,男,58,France,France,2011-12-04,1
+12720,刘桂珍,女,30,Germany,Germany,2011-05-31,4
+12722,袁梅,男,36,France,France,2011-07-12,4
+12723,陈斌,男,49,France,France,2011-11-23,3
+12724,孙帅,女,25,France,France,2011-06-19,2
+12726,何璐,女,20,France,France,2011-03-20,1
+12727,李倩,女,42,France,France,2011-03-03,4
+12731,康洁,女,43,France,France,2011-03-31,1
+12748,张莉,男,49,United Kingdom,United Kingdom,2010-12-05,1
+12753,董梅,男,46,Japan,Japan,2010-12-12,4
+12754,冉亮,女,43,Japan,Japan,2011-02-04,3
+12759,李宁,男,31,Netherlands,Netherlands,2011-03-09,1
+12764,陈利,男,42,Lebanon,Lebanon,2011-01-27,4
+12775,张燕,男,43,Netherlands,Netherlands,2011-06-03,1
+12779,刘鹏,男,31,Poland,Poland,2010-12-03,1
+12783,曾丹,男,62,Portugal,Portugal,2011-09-25,3
+12785,王建华,女,45,Portugal,Portugal,2010-12-10,1
+12798,张玉,男,28,Japan,Japan,2011-10-26,1
+12802,郑龙,女,49,Netherlands,Netherlands,2011-06-06,3
+12815,管建国,女,51,Poland,Poland,2011-05-25,3
+12816,黎峰,女,44,Poland,Poland,2011-06-16,2
+12823,李秀珍,女,37,United Kingdom,United Kingdom,2011-08-04,1
+12831,倪刚,男,30,United Kingdom,United Kingdom,2011-03-22,1
+12836,张艳,男,39,United Kingdom,United Kingdom,2011-02-01,4
+12839,黄桂荣,女,44,United Kingdom,United Kingdom,2011-08-18,2
+12840,柯静,女,40,United Kingdom,United Kingdom,2011-04-27,2
+12841,甄东,男,57,United Kingdom,United Kingdom,2011-10-05,2
+12843,王颖,女,47,United Kingdom,United Kingdom,2011-03-20,1
+12856,邹艳,女,29,United Kingdom,United Kingdom,2011-10-14,1
+12864,张宁,男,27,United Kingdom,United Kingdom,2011-07-24,4
+12876,汤桂香,女,45,Belgium,Belgium,2011-10-13,5
+12877,张桂芳,男,37,United Kingdom,United Kingdom,2010-12-16,1
+12879,陈娜,女,48,United Kingdom,United Kingdom,2011-09-19,4
+12884,王想,男,45,United Kingdom,United Kingdom,2011-09-12,5
+12901,杨波,男,39,United Kingdom,United Kingdom,2011-10-27,4
+12902,黄凤兰,女,29,United Kingdom,United Kingdom,2011-03-20,4
+12912,余玉英,男,21,United Kingdom,United Kingdom,2011-11-16,1
+12921,李秀兰,男,42,United Kingdom,United Kingdom,2010-12-01,4
+12924,谢燕,女,25,United Kingdom,United Kingdom,2011-09-12,3
+12928,李淑兰,男,29,United Kingdom,United Kingdom,2011-10-25,2
+12931,姚玉梅,男,41,United Kingdom,United Kingdom,2011-08-04,5
+12935,许凤兰,女,40,United Kingdom,United Kingdom,2011-01-24,4
+12955,吴坤,女,26,United Kingdom,United Kingdom,2011-11-02,3
+12956,王淑兰,男,52,United Kingdom,United Kingdom,2011-02-06,2
+12965,郭岩,男,52,United Kingdom,United Kingdom,2011-09-11,1
+12968,周玉英,女,46,United Kingdom,United Kingdom,2011-08-19,4
+12970,田佳,女,46,United Kingdom,United Kingdom,2011-12-02,4
+12971,林桂荣,男,46,United Kingdom,United Kingdom,2011-01-06,3
+12989,赵英,男,78,United Kingdom,United Kingdom,2011-03-17,2
+13001,张春梅,男,51,United Kingdom,United Kingdom,2011-03-07,4
+13003,冯莉,男,47,United Kingdom,United Kingdom,2011-05-09,1
+13004,高伟,男,30,United Kingdom,United Kingdom,2011-06-16,2
+13014,陈雪梅,女,37,United Kingdom,United Kingdom,2011-11-17,1
+13016,孙玉,男,67,United Kingdom,United Kingdom,2011-08-08,1
+13018,林兵,男,18,United Kingdom,United Kingdom,2011-02-24,2
+13021,陈颖,男,34,United Kingdom,United Kingdom,2011-06-26,1
+13037,江静,女,53,United Kingdom,United Kingdom,2011-05-04,2
+13047,刘岩,男,31,United Kingdom,United Kingdom,2011-05-04,2
+13050,王丽,女,48,United Kingdom,United Kingdom,2010-12-16,1
+13069,邓斌,女,40,United Kingdom,United Kingdom,2010-12-05,2
+13072,赵想,男,32,United Kingdom,United Kingdom,2011-03-18,2
+13075,胡丽,男,18,United Kingdom,United Kingdom,2011-08-02,3
+13077,潘强,女,42,United Kingdom,United Kingdom,2010-12-08,1
+13078,石建平,女,30,United Kingdom,United Kingdom,2011-01-27,1
+13079,邹丽华,女,38,United Kingdom,United Kingdom,2011-12-05,5
+13081,罗佳,女,46,United Kingdom,United Kingdom,2011-03-21,2
+13089,李丽华,女,50,United Kingdom,United Kingdom,2010-12-16,1
+13090,房玉,男,34,United Kingdom,United Kingdom,2010-12-09,2
+13093,雷秀芳,男,32,United Kingdom,United Kingdom,2011-01-13,3
+13097,钟淑华,男,24,United Kingdom,United Kingdom,2010-12-14,5
+13098,刘艳,男,51,United Kingdom,United Kingdom,2011-05-25,3
+13102,汪桂芝,女,65,United Kingdom,United Kingdom,2010-12-09,2
+13109,陈宇,男,52,United Kingdom,United Kingdom,2011-10-11,1
+13110,刘颖,男,55,United Kingdom,United Kingdom,2011-03-27,1
+13113,乔浩,男,31,United Kingdom,United Kingdom,2011-06-30,1
+13115,张海燕,男,45,United Kingdom,United Kingdom,2011-06-08,2
+13120,程鑫,男,49,United Kingdom,United Kingdom,2011-04-15,1
+13126,赵丹丹,男,18,United Kingdom,United Kingdom,2011-03-10,1
+13134,王婷婷,男,27,United Kingdom,United Kingdom,2011-04-13,2
+13139,岳军,男,59,United Kingdom,United Kingdom,2011-05-08,2
+13140,马琴,男,22,United Kingdom,United Kingdom,2011-08-16,1
+13147,谭婷婷,女,57,United Kingdom,United Kingdom,2011-11-09,2
+13148,朱桂英,男,22,United Kingdom,United Kingdom,2011-01-30,4
+13168,朱冬梅,男,28,United Kingdom,United Kingdom,2011-01-25,1
+13170,董秀云,女,45,United Kingdom,United Kingdom,2011-11-13,2
+13178,陶阳,女,40,United Kingdom,United Kingdom,2011-04-08,4
+13183,殷杰,男,35,United Kingdom,United Kingdom,2011-09-14,2
+13185,彭亮,男,59,United Kingdom,United Kingdom,2011-03-17,2
+13199,张秀兰,女,25,United Kingdom,United Kingdom,2010-12-16,2
+13200,杨淑英,男,38,United Kingdom,United Kingdom,2011-08-05,5
+13225,杨春梅,女,47,United Kingdom,United Kingdom,2011-10-10,4
+13247,崔婷婷,女,43,United Kingdom,United Kingdom,2011-11-22,1
+13263,黎桂香,男,32,United Kingdom,United Kingdom,2011-06-16,1
+13265,崔鹏,男,32,United Kingdom,United Kingdom,2011-04-08,1
+13266,刘波,男,50,United Kingdom,United Kingdom,2011-06-07,3
+13267,谭艳,女,50,United Kingdom,United Kingdom,2010-12-14,3
+13268,龙建军,女,43,United Kingdom,United Kingdom,2011-11-22,3
+13269,李林,女,30,United Kingdom,United Kingdom,2010-12-13,3
+13292,孙霞,女,33,United Kingdom,United Kingdom,2011-11-01,3
+13302,张林,女,39,United Kingdom,United Kingdom,2011-07-07,2
+13305,费宁,男,41,United Kingdom,United Kingdom,2011-04-08,3
+13310,凌淑珍,男,46,United Kingdom,United Kingdom,2011-01-19,4
+13319,路岩,男,37,United Kingdom,United Kingdom,2011-08-18,2
+13320,宋丽,女,49,United Kingdom,United Kingdom,2011-08-25,1
+13332,苏莉,女,49,United Kingdom,United Kingdom,2011-11-25,4
+13344,方刚,男,55,United Kingdom,United Kingdom,2011-10-03,1
+13348,何洁,男,40,United Kingdom,United Kingdom,2011-10-06,4
+13357,林慧,男,43,United Kingdom,United Kingdom,2011-03-27,5
+13381,郝小红,男,38,United Kingdom,United Kingdom,2011-11-08,2
+13384,周畅,女,30,United Kingdom,United Kingdom,2011-10-25,1
+13389,程淑兰,男,65,United Kingdom,United Kingdom,2011-11-28,1
+13394,卢桂英,女,53,United Kingdom,United Kingdom,2011-09-22,3
+13395,孙玲,男,49,United Kingdom,United Kingdom,2011-06-07,3
+13397,龚健,女,39,United Kingdom,United Kingdom,2011-02-18,1
+13408,文丽,女,29,United Kingdom,United Kingdom,2011-01-24,2
+13411,梁春梅,男,51,United Kingdom,United Kingdom,2011-08-24,2
+13414,王晶,男,38,United Kingdom,United Kingdom,2011-07-29,1
+13419,朱琴,女,44,United Kingdom,United Kingdom,2011-10-07,2
+13427,杨丹,男,33,United Kingdom,United Kingdom,2011-08-11,1
+13429,郭坤,男,42,United Kingdom,United Kingdom,2011-09-25,1
+13430,刘桂荣,男,33,United Kingdom,United Kingdom,2011-11-21,3
+13435,罗秀英,男,34,United Kingdom,United Kingdom,2011-10-26,1
+13437,萧小红,男,42,United Kingdom,United Kingdom,2011-06-02,5
+13447,邱俊,男,22,United Kingdom,United Kingdom,2011-11-16,3
+13450,刘丽,女,23,United Kingdom,United Kingdom,2011-09-11,4
+13468,田洁,女,31,United Kingdom,United Kingdom,2011-01-25,3
+13470,罗红梅,女,37,United Kingdom,United Kingdom,2011-08-16,2
+13473,印玉英,男,50,United Kingdom,United Kingdom,2011-10-10,1
+13475,魏桂英,女,38,United Kingdom,United Kingdom,2011-05-06,2
+13479,刘欢,男,39,United Kingdom,United Kingdom,2011-05-23,1
+13489,陈彬,男,36,United Kingdom,United Kingdom,2011-02-18,1
+13493,张秀华,女,43,Switzerland,Switzerland,2011-02-25,3
+13495,任红,男,30,United Kingdom,United Kingdom,2011-11-04,2
+13499,雷英,女,38,United Kingdom,United Kingdom,2011-09-27,1
+13502,黄莉,女,44,United Kingdom,United Kingdom,2011-03-10,4
+13508,程阳,女,42,United Kingdom,United Kingdom,2011-04-10,1
+13515,王鹏,女,40,United Kingdom,United Kingdom,2011-04-06,2
+13523,苏阳,女,40,United Kingdom,United Kingdom,2011-11-06,2
+13524,李洋,女,45,United Kingdom,United Kingdom,2011-10-30,3
+13533,马丽丽,男,65,United Kingdom,United Kingdom,2011-06-10,2
+13534,张鹏,男,30,United Kingdom,United Kingdom,2011-03-23,4
+13538,蓝荣,女,66,United Kingdom,United Kingdom,2011-09-06,1
+13544,阎莹,男,30,United Kingdom,United Kingdom,2011-10-31,1
+13548,王鹏,男,18,United Kingdom,United Kingdom,2011-04-10,2
+13549,张莉,男,33,United Kingdom,United Kingdom,2011-05-31,1
+13552,都欢,女,44,United Kingdom,United Kingdom,2011-09-14,1
+13557,许芳,男,62,United Kingdom,United Kingdom,2011-03-04,3
+13562,徐玉,男,29,United Kingdom,United Kingdom,2011-07-21,4
+13576,赖琳,女,45,United Kingdom,United Kingdom,2010-12-01,3
+13588,郑飞,男,24,United Kingdom,United Kingdom,2011-10-21,4
+13596,华利,男,61,United Kingdom,United Kingdom,2011-12-04,4
+13599,刘浩,男,54,United Kingdom,United Kingdom,2010-12-08,5
+13629,刘宇,男,34,United Kingdom,United Kingdom,2011-02-02,1
+13630,王欣,男,19,United Kingdom,United Kingdom,2011-04-08,5
+13631,陈敏,男,56,United Kingdom,United Kingdom,2011-05-17,3
+13632,程淑英,男,38,United Kingdom,United Kingdom,2011-04-20,2
+13644,蒋燕,女,54,United Kingdom,United Kingdom,2011-08-26,1
+13647,周芳,男,40,United Kingdom,United Kingdom,2011-09-29,3
+13650,詹建,男,40,United Kingdom,United Kingdom,2011-11-23,4
+13663,王秀珍,男,34,United Kingdom,United Kingdom,2011-06-13,2
+13668,徐丹丹,男,47,United Kingdom,United Kingdom,2011-06-05,1
+13681,苏桂英,女,41,United Kingdom,United Kingdom,2011-10-02,1
+13685,徐刚,女,46,United Kingdom,United Kingdom,2011-12-05,3
+13694,卢娟,女,21,United Kingdom,United Kingdom,2011-06-16,1
+13695,李军,男,55,United Kingdom,United Kingdom,2011-06-03,3
+13707,梁雷,女,58,United Kingdom,United Kingdom,2011-01-28,2
+13709,郭玉,男,41,United Kingdom,United Kingdom,2011-08-30,4
+13720,张淑兰,女,64,United Kingdom,United Kingdom,2011-08-15,4
+13721,佟桂香,女,61,United Kingdom,United Kingdom,2011-11-03,2
+13732,赵凤英,男,47,United Kingdom,United Kingdom,2011-11-11,3
+13743,钱玉英,女,56,United Kingdom,United Kingdom,2011-12-07,1
+13748,杜玉兰,女,52,United Kingdom,United Kingdom,2011-04-07,2
+13750,秦明,女,18,United Kingdom,United Kingdom,2011-02-16,2
+13756,李娟,男,36,United Kingdom,United Kingdom,2010-12-16,2
+13763,李秀云,男,48,United Kingdom,United Kingdom,2011-10-07,3
+13767,潘丽华,女,59,United Kingdom,United Kingdom,2011-04-27,4
+13769,王畅,男,23,United Kingdom,United Kingdom,2011-09-08,4
+13777,韩鹏,男,19,United Kingdom,United Kingdom,2010-12-01,2
+13784,刘建华,男,39,United Kingdom,United Kingdom,2011-01-11,5
+13798,徐桂芝,女,18,United Kingdom,United Kingdom,2011-01-23,2
+13808,王秀英,男,38,United Kingdom,United Kingdom,2011-09-04,1
+13809,陈洋,女,44,Cyprus,Cyprus,2011-02-07,1
+13810,李林,男,28,Germany,Germany,2011-11-11,1
+13811,鲍建军,男,39,Germany,Germany,2011-06-09,3
+13813,裴桂兰,女,51,Germany,Germany,2011-09-30,1
+13817,赵秀华,女,33,Germany,Germany,2011-11-10,1
+13824,刘峰,男,30,United Kingdom,United Kingdom,2011-04-12,1
+13833,张凤兰,女,38,United Kingdom,United Kingdom,2011-07-03,1
+13837,洪丹,女,27,United Kingdom,United Kingdom,2011-01-26,2
+13846,杨璐,男,63,United Kingdom,United Kingdom,2010-12-14,1
+13849,阎红,女,40,United Kingdom,United Kingdom,2011-06-22,3
+13851,龙小红,男,31,United Kingdom,United Kingdom,2011-02-24,4
+13854,徐秀华,男,42,United Kingdom,United Kingdom,2011-04-07,4
+13860,杨淑珍,女,38,United Kingdom,United Kingdom,2011-10-18,3
+13862,霍坤,男,37,United Kingdom,United Kingdom,2011-06-05,3
+13865,梁敏,男,33,United Kingdom,United Kingdom,2011-06-06,2
+13869,王淑华,男,33,United Kingdom,United Kingdom,2011-01-30,2
+13870,吴建国,女,21,United Kingdom,United Kingdom,2011-12-07,2
+13871,费阳,女,56,United Kingdom,United Kingdom,2011-04-18,3
+13880,孔丽丽,男,46,United Kingdom,United Kingdom,2011-04-15,2
+13881,郭淑英,女,43,United Kingdom,United Kingdom,2011-11-22,2
+13892,沈桂荣,男,38,United Kingdom,United Kingdom,2011-11-13,2
+13900,李燕,女,28,United Kingdom,United Kingdom,2011-05-31,1
+13901,韩桂珍,女,30,United Kingdom,United Kingdom,2011-09-28,1
+13911,龚春梅,女,22,United Kingdom,United Kingdom,2011-04-08,1
+13924,曹桂芝,男,32,United Kingdom,United Kingdom,2011-11-16,1
+13940,冯静,男,27,United Kingdom,United Kingdom,2011-11-22,4
+13941,银俊,女,60,United Kingdom,United Kingdom,2011-02-15,3
+13949,池帅,女,50,United Kingdom,United Kingdom,2011-12-07,2
+13963,张梅,男,40,United Kingdom,United Kingdom,2011-02-04,2
+13969,王华,男,29,United Kingdom,United Kingdom,2011-10-27,3
+13974,黄雪梅,女,27,United Kingdom,United Kingdom,2011-10-21,1
+13980,刘秀梅,男,37,United Kingdom,United Kingdom,2011-10-10,2
+13982,张浩,女,51,United Kingdom,United Kingdom,2011-10-31,2
+13983,韩秀英,男,62,United Kingdom,United Kingdom,2011-04-21,5
+13985,关建,女,23,United Kingdom,United Kingdom,2011-05-09,1
+13999,孙霞,女,46,United Kingdom,United Kingdom,2011-10-06,1
+14004,刘磊,男,32,United Kingdom,United Kingdom,2011-02-24,1
+14013,聂晨,男,34,United Kingdom,United Kingdom,2011-08-21,1
+14031,徐红梅,男,40,United Kingdom,United Kingdom,2011-11-18,2
+14035,彭玉华,男,30,United Kingdom,United Kingdom,2011-03-17,5
+14047,孙莉,男,37,United Kingdom,United Kingdom,2011-05-24,5
+14051,昝秀华,女,29,United Kingdom,United Kingdom,2011-04-27,4
+14052,刘兰英,男,33,United Kingdom,United Kingdom,2011-11-20,1
+14056,晋英,女,49,United Kingdom,United Kingdom,2011-09-16,3
+14057,佘桂珍,男,41,United Kingdom,United Kingdom,2011-04-14,2
+14060,王辉,男,49,United Kingdom,United Kingdom,2011-01-10,1
+14062,黎玉兰,女,32,United Kingdom,United Kingdom,2011-04-13,1
+14078,邓琴,女,46,United Kingdom,United Kingdom,2011-05-10,2
+14083,曾娟,男,20,United Kingdom,United Kingdom,2010-12-20,1
+14085,曹刚,女,40,United Kingdom,United Kingdom,2011-03-25,2
+14088,韦超,男,47,United Kingdom,United Kingdom,2011-08-03,1
+14092,卢俊,男,20,United Kingdom,United Kingdom,2011-06-22,2
+14096,杨丽娟,男,32,United Kingdom,United Kingdom,2011-09-26,1
+14101,张云,女,40,United Kingdom,United Kingdom,2011-07-20,1
+14102,雷霞,女,52,United Kingdom,United Kingdom,2011-11-28,1
+14110,柏英,男,33,United Kingdom,United Kingdom,2011-05-03,3
+14111,邹丹丹,男,46,United Kingdom,United Kingdom,2011-04-12,2
+14113,李芳,男,57,United Kingdom,United Kingdom,2010-12-20,2
+14116,柏云,男,46,United Kingdom,United Kingdom,2011-09-08,3
+14129,夏洋,女,37,United Kingdom,United Kingdom,2011-09-05,5
+14132,何淑英,男,44,United Kingdom,United Kingdom,2011-06-30,4
+14135,袁燕,男,32,United Kingdom,United Kingdom,2011-11-06,1
+14145,阎柳,女,41,United Kingdom,United Kingdom,2011-05-06,2
+14146,袁桂香,女,38,United Kingdom,United Kingdom,2011-03-30,3
+14156,韩晶,男,44,EIRE,EIRE,2011-06-29,1
+14159,萧丽华,女,35,United Kingdom,United Kingdom,2010-12-12,1
+14161,萧林,男,44,United Kingdom,United Kingdom,2011-03-06,3
+14171,王明,男,34,United Kingdom,United Kingdom,2011-09-02,2
+14174,邰林,女,50,United Kingdom,United Kingdom,2011-11-06,2
+14180,刘亮,男,36,United Kingdom,United Kingdom,2011-03-02,3
+14189,孙婷婷,女,18,United Kingdom,United Kingdom,2011-02-24,2
+14193,樊帅,男,27,United Kingdom,United Kingdom,2011-10-03,1
+14194,冯萍,男,40,United Kingdom,United Kingdom,2011-10-11,1
+14198,蒋红霞,女,60,United Kingdom,United Kingdom,2011-04-14,4
+14210,徐静,女,49,United Kingdom,United Kingdom,2011-08-26,4
+14215,李洁,女,18,United Kingdom,United Kingdom,2010-12-06,2
+14224,王丹,男,22,United Kingdom,United Kingdom,2011-08-21,1
+14231,瞿淑英,男,53,United Kingdom,United Kingdom,2011-02-24,3
+14235,田军,男,47,United Kingdom,United Kingdom,2011-09-25,4
+14243,韦丽,男,67,United Kingdom,United Kingdom,2011-11-01,3
+14246,韦文,女,34,United Kingdom,United Kingdom,2011-07-25,1
+14250,段利,女,29,United Kingdom,United Kingdom,2011-12-02,3
+14270,秦敏,女,40,United Kingdom,United Kingdom,2011-01-12,3
+14277,金伟,男,34,France,France,2011-11-24,4
+14282,严峰,女,52,United Kingdom,United Kingdom,2011-05-18,1
+14290,高雷,女,33,United Kingdom,United Kingdom,2011-10-14,3
+14291,田杰,女,36,United Kingdom,United Kingdom,2011-08-11,3
+14292,王静,女,28,United Kingdom,United Kingdom,2011-05-19,1
+14298,王燕,男,49,United Kingdom,United Kingdom,2011-03-17,3
+14299,李婷婷,男,28,United Kingdom,United Kingdom,2011-01-25,2
+14305,姜淑华,女,44,United Kingdom,United Kingdom,2011-08-18,1
+14320,石宁,男,62,United Kingdom,United Kingdom,2011-05-17,1
+14327,胡平,女,18,United Kingdom,United Kingdom,2011-06-29,2
+14332,孙涛,男,57,United Kingdom,United Kingdom,2011-10-04,4
+14334,但莹,男,43,United Kingdom,United Kingdom,2011-09-07,2
+14335,叶小红,女,26,Germany,Germany,2011-09-04,2
+14336,王浩,女,41,United Kingdom,United Kingdom,2011-05-04,3
+14351,邓鑫,女,48,United Kingdom,United Kingdom,2011-06-28,4
+14359,陈晶,女,30,United Kingdom,United Kingdom,2011-11-20,2
+14364,鹿英,男,45,United Kingdom,United Kingdom,2011-05-23,2
+14367,林雪梅,女,59,United Kingdom,United Kingdom,2011-06-08,4
+14381,邱林,男,33,United Kingdom,United Kingdom,2011-10-18,4
+14383,周娜,女,28,United Kingdom,United Kingdom,2011-06-29,5
+14388,杨淑英,男,38,United Kingdom,United Kingdom,2011-05-20,3
+14390,赵帆,女,40,United Kingdom,United Kingdom,2011-04-14,2
+14395,周霞,男,53,United Kingdom,United Kingdom,2010-12-02,2
+14397,艾淑华,男,38,United Kingdom,United Kingdom,2011-06-12,3
+14401,李凯,女,34,United Kingdom,United Kingdom,2011-08-03,1
+14407,周柳,女,27,United Kingdom,United Kingdom,2011-07-21,2
+14408,罗玉英,男,20,United Kingdom,United Kingdom,2011-06-21,4
+14409,赵玉华,女,24,United Kingdom,United Kingdom,2011-01-25,3
+14410,桂婷,女,24,United Kingdom,United Kingdom,2011-09-08,2
+14415,李璐,男,36,United Kingdom,United Kingdom,2011-10-28,1
+14419,张秀华,女,21,United Kingdom,United Kingdom,2011-10-10,1
+14422,毛倩,女,18,United Kingdom,United Kingdom,2011-11-22,4
+14426,李萍,女,39,United Kingdom,United Kingdom,2011-07-22,2
+14441,熊杰,女,62,United Kingdom,United Kingdom,2011-12-09,1
+14449,王桂英,女,53,United Kingdom,United Kingdom,2011-04-07,3
+14457,宁倩,女,36,United Kingdom,United Kingdom,2011-02-02,1
+14461,张建,男,26,United Kingdom,United Kingdom,2011-06-14,5
+14467,王涛,男,70,United Kingdom,United Kingdom,2011-10-24,1
+14485,姜红霞,女,40,United Kingdom,United Kingdom,2011-11-01,3
+14502,周慧,女,42,United Kingdom,United Kingdom,2011-04-18,1
+14504,黄晶,男,38,United Kingdom,United Kingdom,2011-03-06,1
+14506,牛建军,女,39,United Kingdom,United Kingdom,2010-12-05,2
+14507,谭辉,女,33,United Kingdom,United Kingdom,2011-03-08,1
+14523,陈玉华,男,36,United Kingdom,United Kingdom,2011-08-23,2
+14524,邓丽娟,女,58,United Kingdom,United Kingdom,2011-04-17,2
+14527,张林,女,54,United Kingdom,United Kingdom,2011-01-05,1
+14529,周红,男,18,United Kingdom,United Kingdom,2011-08-21,1
+14541,郭秀珍,女,23,United Kingdom,United Kingdom,2011-02-25,2
+14543,刘华,女,30,United Kingdom,United Kingdom,2011-06-21,2
+14546,张楠,女,51,United Kingdom,United Kingdom,2011-04-05,1
+14547,汪桂兰,女,55,United Kingdom,United Kingdom,2011-11-13,1
+14562,李瑜,女,48,United Kingdom,United Kingdom,2011-02-08,1
+14582,张春梅,男,26,United Kingdom,United Kingdom,2011-10-30,1
+14584,胡琴,女,33,United Kingdom,United Kingdom,2011-06-09,3
+14587,赵刚,男,45,United Kingdom,United Kingdom,2011-05-10,1
+14591,王宇,男,37,United Kingdom,United Kingdom,2011-11-24,3
+14595,梁秀云,女,35,United Kingdom,United Kingdom,2011-11-15,4
+14606,陈秀云,女,35,United Kingdom,United Kingdom,2011-01-23,3
+14609,席兵,男,53,United Kingdom,United Kingdom,2011-09-28,1
+14622,雷畅,男,47,United Kingdom,United Kingdom,2011-06-08,1
+14628,徐宁,女,36,United Kingdom,United Kingdom,2011-09-09,1
+14644,周莹,男,43,United Kingdom,United Kingdom,2011-02-14,2
+14646,吴婷,男,24,Netherlands,Netherlands,2011-01-19,4
+14660,刘兵,男,33,United Kingdom,United Kingdom,2011-09-14,1
+14667,林林,男,52,United Kingdom,United Kingdom,2011-04-07,2
+14680,翟倩,男,21,United Kingdom,United Kingdom,2011-11-14,2
+14684,任峰,男,47,United Kingdom,United Kingdom,2011-05-08,2
+14688,李霞,女,18,United Kingdom,United Kingdom,2011-01-18,1
+14696,张建军,男,60,United Kingdom,United Kingdom,2011-04-11,4
+14699,张金凤,女,33,United Kingdom,United Kingdom,2011-05-09,4
+14704,谭秀芳,女,44,United Kingdom,United Kingdom,2011-09-19,2
+14711,洪玉梅,男,41,United Kingdom,United Kingdom,2011-05-03,2
+14714,徐桂香,女,41,United Kingdom,United Kingdom,2011-11-15,1
+14715,曹丹,女,43,United Kingdom,United Kingdom,2011-11-15,2
+14720,黄斌,女,19,United Kingdom,United Kingdom,2011-08-05,1
+14723,孙明,男,42,United Kingdom,United Kingdom,2010-12-03,5
+14725,黄玉兰,男,37,United Kingdom,United Kingdom,2011-11-15,2
+14727,萧俊,男,33,United Kingdom,United Kingdom,2011-03-10,1
+14733,孙刚,男,30,United Kingdom,United Kingdom,2011-07-18,4
+14735,申坤,女,42,United Kingdom,United Kingdom,2010-12-16,1
+14739,许桂花,男,28,United Kingdom,United Kingdom,2011-12-05,2
+14741,古欣,男,52,United Kingdom,United Kingdom,2010-12-02,1
+14745,秦慧,女,45,United Kingdom,United Kingdom,2011-07-21,1
+14755,胡雷,男,43,United Kingdom,United Kingdom,2011-03-28,2
+14758,刘丽丽,男,51,United Kingdom,United Kingdom,2011-05-18,3
+14762,郭晨,男,18,United Kingdom,United Kingdom,2011-03-21,2
+14776,黄红,女,24,United Kingdom,United Kingdom,2011-10-19,1
+14778,赵雪,男,46,United Kingdom,United Kingdom,2011-02-04,1
+14779,夏颖,女,31,United Kingdom,United Kingdom,2011-01-21,2
+14794,杨海燕,女,32,United Kingdom,United Kingdom,2011-12-07,1
+14796,刘建国,女,23,United Kingdom,United Kingdom,2011-02-21,2
+14800,李建,女,28,United Kingdom,United Kingdom,2011-01-09,2
+14810,陈秀荣,女,52,United Kingdom,United Kingdom,2011-02-06,2
+14823,唐凯,男,45,United Kingdom,United Kingdom,2011-05-29,3
+14824,罗玉英,女,42,United Kingdom,United Kingdom,2011-09-09,1
+14825,董俊,女,33,United Kingdom,United Kingdom,2011-10-07,2
+14828,林勇,女,41,United Kingdom,United Kingdom,2011-01-07,2
+14852,陈楠,男,53,United Kingdom,United Kingdom,2011-10-12,1
+14855,华桂芝,女,31,United Kingdom,United Kingdom,2011-08-12,1
+14857,刘成,女,39,United Kingdom,United Kingdom,2011-10-11,3
+14862,李帅,男,61,United Kingdom,United Kingdom,2011-07-14,2
+14865,田建华,女,48,United Kingdom,United Kingdom,2011-12-02,3
+14868,张博,女,33,United Kingdom,United Kingdom,2011-08-11,3
+14871,沈平,男,47,United Kingdom,United Kingdom,2010-12-14,2
+14878,黄静,女,21,United Kingdom,United Kingdom,2011-11-03,1
+14881,邓秀芳,男,39,United Kingdom,United Kingdom,2011-11-20,1
+14883,何婷,女,47,United Kingdom,United Kingdom,2011-05-12,2
+14895,鲁想,女,44,United Kingdom,United Kingdom,2011-08-21,3
+14907,余丽丽,女,47,United Kingdom,United Kingdom,2010-12-14,3
+14911,陆春梅,男,50,EIRE,EIRE,2010-12-03,1
+14916,席杨,男,45,United Kingdom,United Kingdom,2011-09-07,2
+14923,向鹏,男,45,United Kingdom,United Kingdom,2011-10-20,1
+14929,向旭,男,42,United Kingdom,United Kingdom,2011-11-07,2
+14936,陈瑞,女,27,Channel Islands,Channel Islands,2011-08-23,4
+14947,徐峰,男,52,United Kingdom,United Kingdom,2011-09-28,5
+14952,李建平,男,39,United Kingdom,United Kingdom,2011-02-27,4
+14961,樊杰,男,48,United Kingdom,United Kingdom,2010-12-14,3
+14970,王桂花,女,51,United Kingdom,United Kingdom,2011-04-01,1
+14998,刘浩,女,33,United Kingdom,United Kingdom,2011-04-12,2
+15005,刘玉珍,女,34,United Kingdom,United Kingdom,2011-04-14,1
+15009,龙颖,女,36,United Kingdom,United Kingdom,2011-11-20,3
+15017,李玉兰,女,55,United Kingdom,United Kingdom,2011-11-06,1
+15021,杜成,男,29,United Kingdom,United Kingdom,2010-12-08,1
+15023,徐强,男,57,United Kingdom,United Kingdom,2011-03-08,1
+15024,王红霞,女,42,United Kingdom,United Kingdom,2011-11-30,2
+15027,高玉华,女,43,United Kingdom,United Kingdom,2011-11-09,1
+15028,石静,男,50,United Kingdom,United Kingdom,2011-10-28,1
+15033,李秀英,女,40,United Kingdom,United Kingdom,2011-12-05,4
+15036,彭桂芳,女,52,United Kingdom,United Kingdom,2011-06-13,3
+15039,李瑜,男,33,United Kingdom,United Kingdom,2011-02-01,2
+15046,曹秀英,女,56,United Kingdom,United Kingdom,2011-06-19,2
+15054,陈伟,女,34,United Kingdom,United Kingdom,2011-11-27,2
+15061,刘丽娟,女,57,United Kingdom,United Kingdom,2010-12-02,3
+15066,田凯,女,34,United Kingdom,United Kingdom,2011-10-17,2
+15074,王璐,男,36,United Kingdom,United Kingdom,2011-08-26,1
+15078,吴桂香,女,27,United Kingdom,United Kingdom,2011-02-22,1
+15079,曾柳,男,30,United Kingdom,United Kingdom,2011-05-11,1
+15081,姜兰英,女,39,United Kingdom,United Kingdom,2011-05-15,2
+15083,杨旭,女,42,United Kingdom,United Kingdom,2011-03-28,3
+15088,李琴,女,51,United Kingdom,United Kingdom,2011-11-18,4
+15089,秦雷,男,37,United Kingdom,United Kingdom,2011-11-29,2
+15105,鞠荣,女,26,United Kingdom,United Kingdom,2011-11-21,5
+15107,秦鑫,女,44,United Kingdom,United Kingdom,2010-12-14,1
+15108,王杨,女,41,European Community,European Community,2011-07-21,2
+15114,夏刚,男,45,United Kingdom,United Kingdom,2011-11-09,2
+15125,霍桂珍,女,32,United Kingdom,United Kingdom,2011-08-18,1
+15128,刘坤,男,33,United Kingdom,United Kingdom,2011-10-10,1
+15134,黄辉,男,32,United Kingdom,United Kingdom,2011-09-28,1
+15140,陈洁,女,54,United Kingdom,United Kingdom,2011-09-21,5
+15144,安丽丽,男,57,United Kingdom,United Kingdom,2011-07-25,3
+15150,杨彬,男,33,United Kingdom,United Kingdom,2011-08-03,1
+15164,杜洁,女,33,United Kingdom,United Kingdom,2011-01-04,1
+15181,侯玉华,男,47,United Kingdom,United Kingdom,2011-03-15,2
+15189,周博,女,58,United Kingdom,United Kingdom,2011-03-23,1
+15194,杨浩,男,61,United Kingdom,United Kingdom,2011-06-22,4
+15203,田秀珍,男,32,United Kingdom,United Kingdom,2011-02-01,4
+15208,许琳,女,35,United Kingdom,United Kingdom,2010-12-21,5
+15214,蒋倩,女,43,United Kingdom,United Kingdom,2011-11-15,3
+15218,王琴,女,44,United Kingdom,United Kingdom,2011-07-25,2
+15220,陈华,男,37,United Kingdom,United Kingdom,2011-08-16,2
+15235,董秀云,女,30,United Kingdom,United Kingdom,2011-01-21,1
+15236,林晨,女,39,United Kingdom,United Kingdom,2011-02-14,1
+15237,李丽丽,女,61,United Kingdom,United Kingdom,2011-05-20,1
+15239,李静,女,33,United Kingdom,United Kingdom,2011-09-22,4
+15241,黄超,女,42,United Kingdom,United Kingdom,2011-08-04,2
+15249,余洁,女,70,United Kingdom,United Kingdom,2011-03-28,3
+15251,徐宇,女,33,United Kingdom,United Kingdom,2011-05-13,1
+15252,何桂珍,男,48,United Kingdom,United Kingdom,2011-11-03,1
+15264,萧艳,女,62,United Kingdom,United Kingdom,2011-10-06,4
+15267,王彬,男,47,United Kingdom,United Kingdom,2011-07-07,4
+15271,郭欢,男,53,United Kingdom,United Kingdom,2011-06-12,4
+15288,金秀芳,女,49,United Kingdom,United Kingdom,2010-12-09,3
+15306,宿玉兰,男,46,United Kingdom,United Kingdom,2011-10-06,3
+15311,张亮,男,56,United Kingdom,United Kingdom,2010-12-16,1
+15333,孙玉,男,47,United Kingdom,United Kingdom,2011-05-15,4
+15334,孟玉珍,男,37,United Kingdom,United Kingdom,2011-07-06,1
+15356,程桂兰,男,41,United Kingdom,United Kingdom,2010-12-14,3
+15358,龚雷,男,44,United Kingdom,United Kingdom,2011-09-26,3
+15365,林佳,男,35,United Kingdom,United Kingdom,2011-01-28,2
+15373,夏静,男,42,United Kingdom,United Kingdom,2011-03-30,2
+15376,王洁,男,40,United Kingdom,United Kingdom,2011-05-01,1
+15379,邹建华,男,47,United Kingdom,United Kingdom,2011-01-20,3
+15392,王桂珍,女,65,United Kingdom,United Kingdom,2010-12-14,1
+15405,郭桂荣,男,42,United Kingdom,United Kingdom,2011-06-03,5
+15410,李玉珍,男,58,United Kingdom,United Kingdom,2011-05-20,1
+15412,徐红梅,女,47,United Kingdom,United Kingdom,2011-06-21,1
+15426,康博,女,42,United Kingdom,United Kingdom,2011-11-20,4
+15429,周华,女,34,United Kingdom,United Kingdom,2011-11-13,1
+15438,郭莉,男,42,United Kingdom,United Kingdom,2011-07-31,3
+15443,张芳,男,41,United Kingdom,United Kingdom,2011-08-22,1
+15456,华红,男,31,United Kingdom,United Kingdom,2010-12-15,2
+15463,刘丹,女,33,United Kingdom,United Kingdom,2011-11-10,3
+15465,韩俊,男,44,United Kingdom,United Kingdom,2011-04-10,1
+15473,宋建军,男,58,United Kingdom,United Kingdom,2011-10-10,3
+15483,潘雪,女,39,United Kingdom,United Kingdom,2011-07-01,2
+15491,尹涛,女,22,United Kingdom,United Kingdom,2011-04-18,1
+15493,王燕,女,18,United Kingdom,United Kingdom,2011-07-13,3
+15498,汪丽娟,男,27,United Kingdom,United Kingdom,2011-05-12,1
+15506,胡桂兰,男,48,United Kingdom,United Kingdom,2011-10-25,3
+15508,朱秀云,男,24,United Kingdom,United Kingdom,2011-06-03,5
+15513,孙飞,男,50,United Kingdom,United Kingdom,2011-03-11,1
+15514,徐秀华,女,47,United Kingdom,United Kingdom,2011-11-06,2
+15518,张建,男,38,United Kingdom,United Kingdom,2011-01-25,2
+15521,赖玉珍,男,21,United Kingdom,United Kingdom,2011-10-30,5
+15524,寇建华,女,31,United Kingdom,United Kingdom,2011-11-15,2
+15525,林宁,女,37,United Kingdom,United Kingdom,2011-11-22,1
+15526,刘佳,女,44,United Kingdom,United Kingdom,2011-11-06,1
+15527,徐建,男,24,United Kingdom,United Kingdom,2011-01-28,4
+15530,王海燕,女,57,United Kingdom,United Kingdom,2011-06-23,2
+15531,刘晨,男,44,United Kingdom,United Kingdom,2011-12-01,3
+15537,涂玉梅,女,45,United Kingdom,United Kingdom,2011-06-29,3
+15545,范瑜,女,47,United Kingdom,United Kingdom,2010-12-03,1
+15549,胡秀珍,男,55,United Kingdom,United Kingdom,2011-09-23,1
+15555,王秀荣,女,42,United Kingdom,United Kingdom,2011-07-04,3
+15568,卫红霞,女,48,United Kingdom,United Kingdom,2011-12-07,2
+15569,王红,女,31,United Kingdom,United Kingdom,2011-07-31,1
+15570,唐桂香,男,61,United Kingdom,United Kingdom,2011-11-29,2
+15572,何宁,女,41,United Kingdom,United Kingdom,2011-08-22,1
+15581,李燕,男,31,United Kingdom,United Kingdom,2011-06-20,3
+15589,范云,女,34,United Kingdom,United Kingdom,2011-03-29,1
+15601,赵想,女,18,United Kingdom,United Kingdom,2011-01-25,1
+15611,罗斌,女,34,United Kingdom,United Kingdom,2011-03-03,2
+15615,胡萍,女,18,United Kingdom,United Kingdom,2011-08-18,1
+15625,李帆,女,49,United Kingdom,United Kingdom,2011-08-01,3
+15632,黄雪,女,45,United Kingdom,United Kingdom,2011-06-10,1
+15640,谭岩,男,28,United Kingdom,United Kingdom,2011-04-13,1
+15641,胡平,男,39,United Kingdom,United Kingdom,2010-12-15,5
+15643,李颖,女,39,United Kingdom,United Kingdom,2011-03-02,2
+15644,郭建国,女,26,United Kingdom,United Kingdom,2011-03-23,3
+15648,杨玉珍,男,37,United Kingdom,United Kingdom,2011-05-19,1
+15649,吴梅,女,40,United Kingdom,United Kingdom,2010-12-07,2
+15651,林凤兰,女,37,United Kingdom,United Kingdom,2011-11-03,1
+15660,程梅,女,31,United Kingdom,United Kingdom,2011-05-19,1
+15661,白洁,男,27,United Kingdom,United Kingdom,2011-01-05,2
+15665,袁丽娟,女,36,United Kingdom,United Kingdom,2011-04-10,3
+15669,方杰,女,33,United Kingdom,United Kingdom,2011-08-28,1
+15671,刘娜,男,46,United Kingdom,United Kingdom,2011-03-14,1
+15681,谢兵,女,56,United Kingdom,United Kingdom,2011-06-09,1
+15687,张丽,男,51,United Kingdom,United Kingdom,2011-01-13,4
+15691,梁龙,女,40,United Kingdom,United Kingdom,2011-04-01,3
+15694,王玉梅,女,32,United Kingdom,United Kingdom,2011-03-16,4
+15696,张文,女,50,United Kingdom,United Kingdom,2011-05-03,1
+15706,胡桂香,女,47,United Kingdom,United Kingdom,2011-10-06,3
+15708,程利,女,55,United Kingdom,United Kingdom,2010-12-05,2
+15713,茅荣,男,42,United Kingdom,United Kingdom,2011-07-19,2
+15719,陈雷,男,60,United Kingdom,United Kingdom,2011-01-06,1
+15722,耿慧,男,42,United Kingdom,United Kingdom,2011-02-22,1
+15737,袁燕,男,32,United Kingdom,United Kingdom,2011-09-21,4
+15750,张艳,女,34,United Kingdom,United Kingdom,2011-11-24,1
+15764,罗芳,女,46,United Kingdom,United Kingdom,2011-06-08,3
+15768,陆利,男,33,United Kingdom,United Kingdom,2011-05-20,2
+15769,杨倩,女,60,United Kingdom,United Kingdom,2011-03-17,1
+15777,陈春梅,女,45,United Kingdom,United Kingdom,2011-01-26,5
+15786,江峰,女,40,United Kingdom,United Kingdom,2011-10-24,1
+15796,王浩,男,41,United Kingdom,United Kingdom,2011-05-23,3
+15797,舒霞,男,36,United Kingdom,United Kingdom,2011-05-09,4
+15799,张桂英,女,19,United Kingdom,United Kingdom,2011-09-25,3
+15803,李秀英,男,34,United Kingdom,United Kingdom,2011-10-19,1
+15805,王芳,女,58,United Kingdom,United Kingdom,2011-10-25,2
+15806,王秀梅,男,42,United Kingdom,United Kingdom,2011-03-08,2
+15815,丁帅,女,52,United Kingdom,United Kingdom,2011-03-25,3
+15825,王晨,女,52,United Kingdom,United Kingdom,2011-06-20,4
+15827,蔡淑华,女,39,United Kingdom,United Kingdom,2011-04-17,2
+15835,蔡玉兰,女,47,United Kingdom,United Kingdom,2011-03-24,4
+15838,陈飞,女,21,United Kingdom,United Kingdom,2011-04-07,1
+15850,蔡敏,女,57,United Kingdom,United Kingdom,2011-06-24,3
+15854,关雷,女,56,United Kingdom,United Kingdom,2011-06-20,1
+15856,文东,女,45,United Kingdom,United Kingdom,2011-05-20,1
+15860,慕桂珍,女,43,United Kingdom,United Kingdom,2011-04-21,1
+15865,张桂兰,女,39,United Kingdom,United Kingdom,2011-09-12,1
+15867,王宁,女,54,United Kingdom,United Kingdom,2011-11-17,4
+15904,陈金凤,男,49,United Kingdom,United Kingdom,2011-12-01,2
+15917,龚丹丹,男,18,United Kingdom,United Kingdom,2011-04-06,2
+15921,张龙,男,35,United Kingdom,United Kingdom,2011-06-20,5
+15933,张桂芳,女,26,United Kingdom,United Kingdom,2011-09-29,1
+15952,丁洋,男,24,United Kingdom,United Kingdom,2011-07-03,3
+15953,夏想,男,53,United Kingdom,United Kingdom,2011-01-12,1
+15965,邓秀云,男,39,United Kingdom,United Kingdom,2011-11-22,1
+15970,林健,男,45,United Kingdom,United Kingdom,2011-02-09,1
+15976,董彬,女,40,United Kingdom,United Kingdom,2011-05-03,1
+15984,马艳,女,24,United Kingdom,United Kingdom,2011-02-23,3
+15987,刘静,女,21,United Kingdom,United Kingdom,2010-12-06,2
+16005,谭玉英,男,34,United Kingdom,United Kingdom,2011-11-27,3
+16007,谢磊,男,35,United Kingdom,United Kingdom,2011-06-12,1
+16008,蔡静,女,35,United Kingdom,United Kingdom,2011-05-19,3
+16012,董丹丹,男,36,United Kingdom,United Kingdom,2011-07-07,3
+16013,张桂花,女,64,United Kingdom,United Kingdom,2011-08-12,3
+16019,蒋英,男,52,United Kingdom,United Kingdom,2011-04-21,1
+16024,冯建平,女,42,United Kingdom,United Kingdom,2011-11-27,1
+16029,马淑英,男,39,United Kingdom,United Kingdom,2010-12-01,2
+16033,赵桂香,男,39,United Kingdom,United Kingdom,2011-07-11,4
+16036,范浩,女,48,United Kingdom,United Kingdom,2011-09-13,1
+16040,何畅,男,39,United Kingdom,United Kingdom,2011-07-14,2
+16049,左龙,男,50,United Kingdom,United Kingdom,2011-09-25,2
+16053,段璐,女,44,United Kingdom,United Kingdom,2011-08-09,2
+16057,梁建国,男,65,United Kingdom,United Kingdom,2011-09-04,1
+16063,杨玉,女,38,United Kingdom,United Kingdom,2011-03-24,1
+16066,余小红,男,53,United Kingdom,United Kingdom,2011-11-23,1
+16076,倪秀芳,男,27,United Kingdom,United Kingdom,2011-07-28,3
+16091,孙丽娟,女,32,United Kingdom,United Kingdom,2011-07-08,4
+16092,郑丽华,女,62,United Kingdom,United Kingdom,2011-08-17,1
+16098,沈桂珍,女,50,United Kingdom,United Kingdom,2011-07-05,4
+16103,白红霞,女,45,United Kingdom,United Kingdom,2011-09-21,3
+16104,王红梅,女,68,United Kingdom,United Kingdom,2011-10-09,4
+16110,高飞,男,39,United Kingdom,United Kingdom,2011-02-01,2
+16115,劳桂香,男,53,United Kingdom,United Kingdom,2011-02-20,1
+16116,陈博,女,54,United Kingdom,United Kingdom,2011-05-12,3
+16119,汪婷婷,女,59,United Kingdom,United Kingdom,2011-09-28,1
+16122,初春梅,男,26,United Kingdom,United Kingdom,2011-09-27,3
+16131,孔淑珍,男,39,United Kingdom,United Kingdom,2011-08-16,4
+16133,李亮,女,43,United Kingdom,United Kingdom,2011-05-19,3
+16142,李秀荣,女,59,United Kingdom,United Kingdom,2011-04-04,4
+16143,任芳,男,45,United Kingdom,United Kingdom,2010-12-05,2
+16150,谭梅,男,54,United Kingdom,United Kingdom,2010-12-02,3
+16156,袁玉华,男,25,United Kingdom,United Kingdom,2011-11-15,3
+16159,薛艳,男,36,United Kingdom,United Kingdom,2011-03-03,3
+16161,杨丹,女,56,United Kingdom,United Kingdom,2010-12-06,1
+16168,曲龙,男,37,United Kingdom,United Kingdom,2011-11-15,1
+16172,孟婷婷,男,40,United Kingdom,United Kingdom,2011-09-05,2
+16173,刘波,男,59,United Kingdom,United Kingdom,2011-10-26,2
+16180,唐秀芳,女,29,United Kingdom,United Kingdom,2011-04-19,2
+16184,刘平,男,32,United Kingdom,United Kingdom,2011-05-12,1
+16186,徐红霞,女,24,United Kingdom,United Kingdom,2010-12-02,1
+16187,李桂兰,女,59,United Kingdom,United Kingdom,2011-05-20,2
+16210,白玉珍,女,52,United Kingdom,United Kingdom,2011-08-15,2
+16211,刘建,女,51,United Kingdom,United Kingdom,2011-09-12,2
+16214,赵丹,女,36,United Kingdom,United Kingdom,2011-06-22,2
+16224,罗雷,女,23,United Kingdom,United Kingdom,2011-10-13,2
+16225,罗辉,男,20,United Kingdom,United Kingdom,2011-07-13,2
+16226,路春梅,男,56,United Kingdom,United Kingdom,2011-04-18,3
+16241,杜桂荣,男,46,United Kingdom,United Kingdom,2011-01-04,3
+16245,陈彬,男,49,United Kingdom,United Kingdom,2011-03-28,1
+16247,刘芳,女,43,United Kingdom,United Kingdom,2011-06-22,4
+16248,钱建,男,30,United Kingdom,United Kingdom,2011-10-09,2
+16250,焦秀梅,男,36,United Kingdom,United Kingdom,2011-03-23,1
+16255,罗亮,男,28,United Kingdom,United Kingdom,2011-02-07,3
+16270,刘文,男,26,United Kingdom,United Kingdom,2010-12-21,2
+16293,萧欣,男,51,United Kingdom,United Kingdom,2011-05-16,3
+16316,李坤,男,21,United Kingdom,United Kingdom,2010-12-16,1
+16317,刘刚,男,28,United Kingdom,United Kingdom,2011-02-15,1
+16318,张红霞,女,37,United Kingdom,United Kingdom,2011-11-04,3
+16319,张颖,女,41,United Kingdom,United Kingdom,2011-05-06,3
+16321,卓洋,女,23,Australia,Australia,2011-02-07,1
+16323,盛欢,女,20,United Kingdom,United Kingdom,2011-05-27,5
+16325,焦文,男,45,United Kingdom,United Kingdom,2011-07-07,2
+16326,焦凤英,男,42,United Kingdom,United Kingdom,2011-01-30,1
+16341,吴兰英,女,56,United Kingdom,United Kingdom,2011-09-15,2
+16348,刘瑜,女,41,United Kingdom,United Kingdom,2011-09-22,3
+16349,李桂香,女,46,United Kingdom,United Kingdom,2011-02-22,4
+16353,焦洁,男,31,United Kingdom,United Kingdom,2011-05-06,2
+16357,赵建平,男,32,United Kingdom,United Kingdom,2011-05-10,2
+16359,王丽娟,女,25,United Kingdom,United Kingdom,2011-05-09,3
+16362,张玉英,男,31,United Kingdom,United Kingdom,2011-10-11,1
+16369,吴丽,女,36,United Kingdom,United Kingdom,2011-09-20,3
+16372,罗雪,男,54,United Kingdom,United Kingdom,2011-11-06,1
+16379,范小红,男,29,United Kingdom,United Kingdom,2011-12-05,2
+16393,孙琴,男,65,United Kingdom,United Kingdom,2011-07-20,1
+16394,李小红,女,47,United Kingdom,United Kingdom,2011-04-05,1
+16395,左飞,男,44,United Kingdom,United Kingdom,2011-01-13,1
+16401,龙宇,男,40,United Kingdom,United Kingdom,2011-09-14,2
+16402,汪秀梅,男,38,United Kingdom,United Kingdom,2011-03-20,2
+16415,贺敏,男,33,United Kingdom,United Kingdom,2011-10-26,2
+16422,程磊,女,23,United Kingdom,United Kingdom,2011-01-18,2
+16431,林柳,女,30,United Kingdom,United Kingdom,2011-05-10,2
+16449,冯秀华,女,59,United Kingdom,United Kingdom,2011-05-26,3
+16463,王秀梅,男,46,United Kingdom,United Kingdom,2011-10-18,1
+16484,王丹,女,59,United Kingdom,United Kingdom,2011-06-02,1
+16497,王雪梅,女,33,United Kingdom,United Kingdom,2011-05-20,1
+16515,李帆,女,27,United Kingdom,United Kingdom,2011-02-01,2
+16518,刘娟,女,40,United Kingdom,United Kingdom,2011-02-28,1
+16519,刘桂珍,女,30,United Kingdom,United Kingdom,2010-12-09,3
+16520,黄秀云,女,42,United Kingdom,United Kingdom,2011-04-14,4
+16525,郑芳,男,21,United Kingdom,United Kingdom,2011-02-06,3
+16531,叶浩,男,18,United Kingdom,United Kingdom,2011-09-26,1
+16536,李春梅,女,44,United Kingdom,United Kingdom,2011-08-21,3
+16545,罗华,女,60,United Kingdom,United Kingdom,2011-06-28,2
+16549,魏凯,女,45,United Kingdom,United Kingdom,2011-09-11,1
+16552,顾玉英,男,46,United Kingdom,United Kingdom,2010-12-01,1
+16554,伍刚,男,40,United Kingdom,United Kingdom,2011-01-12,3
+16558,张淑华,男,42,United Kingdom,United Kingdom,2011-03-21,1
+16586,王宇,男,23,United Kingdom,United Kingdom,2011-04-05,2
+16594,倪超,女,31,United Kingdom,United Kingdom,2011-09-25,3
+16596,童玉梅,男,54,United Kingdom,United Kingdom,2011-11-24,3
+16600,褚建,男,26,United Kingdom,United Kingdom,2011-11-15,5
+16609,凌梅,女,36,United Kingdom,United Kingdom,2011-05-26,4
+16621,郑冬梅,女,54,United Kingdom,United Kingdom,2011-05-08,2
+16623,吴成,女,41,United Kingdom,United Kingdom,2011-04-08,2
+16633,胡红梅,男,42,United Kingdom,United Kingdom,2011-10-31,1
+16638,李敏,女,36,United Kingdom,United Kingdom,2011-09-01,3
+16643,杨桂珍,女,48,United Kingdom,United Kingdom,2011-04-08,1
+16652,王桂英,男,51,United Kingdom,United Kingdom,2011-10-12,1
+16654,朱兰英,女,30,United Kingdom,United Kingdom,2011-07-21,1
+16655,周春梅,女,24,United Kingdom,United Kingdom,2011-06-07,4
+16656,金英,女,18,United Kingdom,United Kingdom,2011-01-04,2
+16667,吕凯,女,46,United Kingdom,United Kingdom,2011-10-02,2
+16672,张建军,女,44,United Kingdom,United Kingdom,2011-06-16,4
+16678,陈宁,男,69,United Kingdom,United Kingdom,2011-09-02,2
+16681,王秀珍,男,40,United Kingdom,United Kingdom,2011-09-23,2
+16684,黄桂英,女,38,United Kingdom,United Kingdom,2011-02-16,4
+16686,李彬,女,43,United Kingdom,United Kingdom,2011-05-29,3
+16688,徐桂荣,女,43,United Kingdom,United Kingdom,2011-12-08,1
+16698,王琴,女,37,United Kingdom,United Kingdom,2011-03-31,1
+16700,唐晶,女,30,United Kingdom,United Kingdom,2011-06-13,3
+16701,王秀梅,男,40,United Kingdom,United Kingdom,2011-02-14,2
+16705,戴丽,女,39,United Kingdom,United Kingdom,2011-05-16,3
+16710,叶兵,男,39,United Kingdom,United Kingdom,2011-05-16,2
+16711,刘玲,女,49,United Kingdom,United Kingdom,2011-02-10,3
+16712,李志强,女,40,United Kingdom,United Kingdom,2011-08-02,2
+16713,陈梅,女,24,United Kingdom,United Kingdom,2010-12-08,1
+16719,贾畅,男,32,United Kingdom,United Kingdom,2011-01-05,1
+16722,欧阳金凤,女,37,United Kingdom,United Kingdom,2011-08-25,1
+16725,孙亮,男,40,United Kingdom,United Kingdom,2011-01-27,5
+16729,王桂珍,女,46,United Kingdom,United Kingdom,2011-07-29,2
+16730,陶春梅,女,40,United Kingdom,United Kingdom,2011-01-24,2
+16734,徐雪梅,男,18,United Kingdom,United Kingdom,2011-08-17,1
+16745,陈杨,男,25,United Kingdom,United Kingdom,2011-02-06,2
+16746,陈桂珍,女,47,United Kingdom,United Kingdom,2011-04-18,3
+16748,陈小红,女,37,United Kingdom,United Kingdom,2011-01-09,1
+16750,杨萍,女,57,United Kingdom,United Kingdom,2011-04-21,5
+16752,黄杨,男,41,United Kingdom,United Kingdom,2010-12-02,5
+16755,叶杰,男,35,United Kingdom,United Kingdom,2011-01-28,1
+16769,辛利,女,32,United Kingdom,United Kingdom,2011-03-24,3
+16770,方波,男,36,United Kingdom,United Kingdom,2011-01-30,1
+16778,袁成,女,41,United Kingdom,United Kingdom,2011-09-26,3
+16779,刘建军,女,40,United Kingdom,United Kingdom,2011-07-13,2
+16780,夏斌,女,51,United Kingdom,United Kingdom,2011-03-25,2
+16790,廉荣,男,22,United Kingdom,United Kingdom,2011-11-06,2
+16796,何婷婷,男,23,United Kingdom,United Kingdom,2011-09-11,2
+16801,夏畅,男,37,United Kingdom,United Kingdom,2011-05-22,2
+16813,李艳,男,46,United Kingdom,United Kingdom,2011-05-19,3
+16814,张平,女,49,United Kingdom,United Kingdom,2011-02-03,1
+16816,卫玉英,男,33,United Kingdom,United Kingdom,2011-07-13,1
+16817,李帅,女,18,United Kingdom,United Kingdom,2010-12-15,1
+16825,刘建平,男,33,United Kingdom,United Kingdom,2011-11-01,2
+16828,黄丽华,男,44,United Kingdom,United Kingdom,2011-08-19,1
+16834,杨杰,男,39,United Kingdom,United Kingdom,2011-04-26,1
+16839,李丽娟,女,46,United Kingdom,United Kingdom,2010-12-05,2
+16841,李建,男,54,United Kingdom,United Kingdom,2011-06-07,1
+16842,陈淑英,男,38,United Kingdom,United Kingdom,2011-07-07,2
+16843,郭倩,女,34,United Kingdom,United Kingdom,2011-06-16,3
+16849,李欣,女,29,United Kingdom,United Kingdom,2011-06-06,2
+16851,王平,女,23,United Kingdom,United Kingdom,2011-10-28,2
+16869,王慧,女,20,United Kingdom,United Kingdom,2011-06-27,3
+16875,余志强,女,31,United Kingdom,United Kingdom,2011-01-04,3
+16877,林晨,女,52,United Kingdom,United Kingdom,2011-05-15,2
+16880,郑丽华,男,48,United Kingdom,United Kingdom,2011-09-01,1
+16892,方彬,女,34,United Kingdom,United Kingdom,2011-06-09,4
+16900,彭雪梅,男,65,United Kingdom,United Kingdom,2011-10-07,3
+16904,王岩,女,32,United Kingdom,United Kingdom,2011-03-24,4
+16907,宋冬梅,男,55,United Kingdom,United Kingdom,2011-02-22,1
+16915,魏文,男,58,United Kingdom,United Kingdom,2011-04-05,2
+16923,崔鑫,男,45,United Kingdom,United Kingdom,2011-01-30,2
+16924,侯彬,女,31,United Kingdom,United Kingdom,2011-10-06,3
+16928,杨桂芳,女,35,United Kingdom,United Kingdom,2011-02-11,1
+16931,刘小红,女,42,United Kingdom,United Kingdom,2011-05-29,1
+16942,唐秀荣,女,23,United Kingdom,United Kingdom,2011-05-04,1
+16945,杨桂芳,男,28,United Kingdom,United Kingdom,2010-12-16,3
+16966,秦梅,女,27,United Kingdom,United Kingdom,2011-12-01,1
+16979,袁玉梅,女,46,United Kingdom,United Kingdom,2011-07-15,1
+16987,刘林,女,54,United Kingdom,United Kingdom,2011-05-18,1
+16998,黄建,男,48,United Kingdom,United Kingdom,2011-02-08,1
+17002,周成,女,51,United Kingdom,United Kingdom,2011-02-22,2
+17006,周桂芝,女,30,United Kingdom,United Kingdom,2011-12-05,2
+17007,罗小红,女,36,United Kingdom,United Kingdom,2011-05-09,2
+17018,李玉梅,女,36,United Kingdom,United Kingdom,2011-10-30,3
+17051,冯兰英,女,45,United Kingdom,United Kingdom,2011-05-29,1
+17054,朱想,女,65,United Kingdom,United Kingdom,2011-04-18,5
+17059,党璐,女,32,United Kingdom,United Kingdom,2011-05-26,5
+17061,赵小红,男,51,United Kingdom,United Kingdom,2011-05-13,2
+17062,程玉,男,58,United Kingdom,United Kingdom,2011-01-30,3
+17063,张涛,女,46,United Kingdom,United Kingdom,2011-06-29,3
+17068,陈丹,男,35,United Kingdom,United Kingdom,2011-06-03,4
+17069,何兵,女,29,United Kingdom,United Kingdom,2010-12-20,1
+17076,郑金凤,男,27,United Kingdom,United Kingdom,2011-03-11,2
+17082,梁玲,女,18,United Kingdom,United Kingdom,2011-01-25,2
+17084,高刚,女,37,United Kingdom,United Kingdom,2011-11-04,4
+17088,高玉华,女,36,United Kingdom,United Kingdom,2011-09-28,2
+17095,卢艳,女,50,United Kingdom,United Kingdom,2011-01-09,4
+17096,常超,男,33,United Kingdom,United Kingdom,2011-07-19,3
+17102,刘健,女,37,United Kingdom,United Kingdom,2011-03-23,3
+17110,洪欢,男,43,United Kingdom,United Kingdom,2011-06-27,2
+17120,张倩,男,45,United Kingdom,United Kingdom,2011-04-20,3
+17123,张成,女,48,United Kingdom,United Kingdom,2011-07-01,3
+17131,秦飞,男,42,United Kingdom,United Kingdom,2011-11-06,5
+17133,何兵,女,24,United Kingdom,United Kingdom,2011-11-24,4
+17134,苑桂兰,男,44,United Kingdom,United Kingdom,2011-03-20,3
+17135,梁帆,女,32,United Kingdom,United Kingdom,2011-11-23,1
+17138,戚秀梅,男,54,United Kingdom,United Kingdom,2011-03-09,3
+17139,宣阳,男,40,United Kingdom,United Kingdom,2011-05-13,2
+17144,刘凤英,女,42,United Kingdom,United Kingdom,2011-09-16,1
+17146,范秀荣,男,71,United Kingdom,United Kingdom,2011-08-26,2
+17148,李玲,男,49,United Kingdom,United Kingdom,2011-10-19,2
+17162,黄宇,女,44,United Kingdom,United Kingdom,2011-07-31,3
+17164,赵萍,女,38,United Kingdom,United Kingdom,2011-07-11,1
+17169,孙桂芝,女,25,United Kingdom,United Kingdom,2011-06-09,1
+17173,谢俊,女,37,United Kingdom,United Kingdom,2011-11-25,3
+17174,曾兰英,男,29,United Kingdom,United Kingdom,2011-05-06,1
+17175,方桂珍,女,60,United Kingdom,United Kingdom,2011-02-16,2
+17180,瞿楠,女,44,United Kingdom,United Kingdom,2011-10-14,1
+17188,刘红,女,54,United Kingdom,United Kingdom,2011-11-28,2
+17205,高建华,女,32,United Kingdom,United Kingdom,2011-10-17,1
+17211,韦辉,男,30,United Kingdom,United Kingdom,2011-10-23,5
+17214,李桂芳,男,47,United Kingdom,United Kingdom,2010-12-15,2
+17217,李晨,男,29,United Kingdom,United Kingdom,2011-04-19,1
+17220,孙琳,女,34,United Kingdom,United Kingdom,2010-12-10,4
+17222,亓建华,男,60,United Kingdom,United Kingdom,2011-10-05,4
+17230,张丹,男,35,United Kingdom,United Kingdom,2010-12-20,2
+17231,蔡娟,女,22,United Kingdom,United Kingdom,2011-05-08,3
+17236,黄志强,男,18,United Kingdom,United Kingdom,2011-01-25,1
+17238,赵秀珍,男,21,United Kingdom,United Kingdom,2011-03-28,3
+17243,周俊,女,55,United Kingdom,United Kingdom,2011-02-27,1
+17252,王荣,男,33,United Kingdom,United Kingdom,2011-08-15,2
+17256,李芳,女,70,United Kingdom,United Kingdom,2011-01-31,1
+17259,王慧,男,58,United Kingdom,United Kingdom,2010-12-06,2
+17262,厉玉华,男,64,United Kingdom,United Kingdom,2011-10-18,2
+17284,马娜,女,52,United Kingdom,United Kingdom,2011-06-26,1
+17288,李旭,男,47,United Kingdom,United Kingdom,2011-11-30,3
+17290,陈梅,女,30,United Kingdom,United Kingdom,2011-12-06,1
+17299,吴亮,女,39,United Kingdom,United Kingdom,2011-06-19,1
+17306,王磊,女,48,United Kingdom,United Kingdom,2011-03-30,3
+17312,徐楠,女,51,United Kingdom,United Kingdom,2011-07-03,2
+17315,祝玉,男,26,United Kingdom,United Kingdom,2011-03-21,1
+17338,李帅,男,37,United Kingdom,United Kingdom,2011-04-18,2
+17339,崔海燕,女,39,United Kingdom,United Kingdom,2010-12-09,2
+17346,岑玉梅,男,38,United Kingdom,United Kingdom,2011-11-01,3
+17350,刘凯,男,27,United Kingdom,United Kingdom,2011-10-19,2
+17359,罗红,男,62,United Kingdom,United Kingdom,2011-11-28,3
+17360,毛莉,男,37,United Kingdom,United Kingdom,2011-11-22,3
+17361,郭凤兰,女,28,United Kingdom,United Kingdom,2011-06-06,2
+17362,姜英,男,62,United Kingdom,United Kingdom,2011-02-03,1
+17364,贾秀英,女,58,United Kingdom,United Kingdom,2011-03-29,2
+17365,吴秀英,男,41,United Kingdom,United Kingdom,2011-06-23,1
+17368,彭斌,男,18,United Kingdom,United Kingdom,2011-03-25,4
+17370,粟玉珍,女,34,United Kingdom,United Kingdom,2011-09-16,4
+17371,吴婷婷,女,20,United Kingdom,United Kingdom,2011-11-22,3
+17372,高雷,女,46,United Kingdom,United Kingdom,2011-04-10,2
+17377,阳斌,女,33,United Kingdom,United Kingdom,2011-06-19,2
+17381,宋洋,男,39,United Kingdom,United Kingdom,2011-02-10,2
+17388,张飞,女,61,United Kingdom,United Kingdom,2011-07-31,3
+17398,林桂花,女,32,United Kingdom,United Kingdom,2011-03-29,2
+17400,周莹,男,45,United Kingdom,United Kingdom,2011-08-05,1
+17412,彭建军,男,49,United Kingdom,United Kingdom,2011-11-16,5
+17422,李浩,女,54,United Kingdom,United Kingdom,2011-07-20,1
+17428,沙建军,女,38,United Kingdom,United Kingdom,2011-08-21,1
+17449,吴鑫,女,37,United Kingdom,United Kingdom,2011-04-19,1
+17450,苏秀英,女,37,United Kingdom,United Kingdom,2011-05-24,1
+17451,刘淑兰,女,44,United Kingdom,United Kingdom,2011-10-14,3
+17459,孙华,女,57,United Kingdom,United Kingdom,2011-10-10,1
+17463,董雷,女,36,United Kingdom,United Kingdom,2011-10-21,2
+17469,王成,男,18,United Kingdom,United Kingdom,2011-09-28,1
+17470,张红梅,女,50,United Kingdom,United Kingdom,2011-04-05,4
+17472,张阳,女,40,United Kingdom,United Kingdom,2011-06-01,4
+17490,卢欢,男,46,United Kingdom,United Kingdom,2011-12-09,1
+17491,杨琳,男,21,United Kingdom,United Kingdom,2011-09-26,3
+17501,郭燕,女,33,United Kingdom,United Kingdom,2011-05-03,5
+17504,胡凤兰,女,49,United Kingdom,United Kingdom,2011-05-17,1
+17511,王志强,女,24,United Kingdom,United Kingdom,2011-01-05,2
+17512,张旭,女,45,United Kingdom,United Kingdom,2011-02-11,2
+17516,刘凤兰,男,39,United Kingdom,United Kingdom,2011-11-24,1
+17519,王洋,女,31,United Kingdom,United Kingdom,2011-07-29,4
+17520,王云,女,30,United Kingdom,United Kingdom,2011-10-17,2
+17522,祝东,男,27,United Kingdom,United Kingdom,2011-06-09,4
+17527,罗婷婷,男,40,United Kingdom,United Kingdom,2011-05-05,3
+17528,杨丽娟,女,42,United Kingdom,United Kingdom,2011-09-29,2
+17537,陈宇,女,35,United Kingdom,United Kingdom,2011-02-09,1
+17564,李鹏,男,27,United Kingdom,United Kingdom,2011-09-20,1
+17576,刘平,女,18,United Kingdom,United Kingdom,2011-08-25,4
+17581,王丹丹,男,45,United Kingdom,United Kingdom,2011-03-04,2
+17588,金婷,男,50,United Kingdom,United Kingdom,2011-08-31,2
+17590,李淑英,女,47,United Kingdom,United Kingdom,2011-11-22,1
+17591,黄桂兰,男,64,United Kingdom,United Kingdom,2011-08-09,2
+17609,傅丽,男,37,United Kingdom,United Kingdom,2011-02-10,1
+17611,黄金凤,男,56,United Kingdom,United Kingdom,2011-03-13,3
+17615,卢丽,女,32,United Kingdom,United Kingdom,2011-08-01,1
+17633,王桂荣,女,30,United Kingdom,United Kingdom,2011-11-08,1
+17634,刘红梅,男,41,United Kingdom,United Kingdom,2011-05-09,1
+17642,滕伟,女,59,United Kingdom,United Kingdom,2011-08-12,4
+17648,郝秀珍,男,36,United Kingdom,United Kingdom,2011-10-10,5
+17651,张静,男,21,United Kingdom,United Kingdom,2011-07-07,3
+17652,朱飞,女,50,United Kingdom,United Kingdom,2011-04-20,2
+17653,吕俊,女,39,United Kingdom,United Kingdom,2011-09-01,2
+17655,宁秀梅,女,43,United Kingdom,United Kingdom,2011-08-15,3
+17659,孙凯,男,30,United Kingdom,United Kingdom,2011-06-08,2
+17669,林秀荣,男,41,United Kingdom,United Kingdom,2011-08-09,1
+17673,宋飞,男,22,United Kingdom,United Kingdom,2011-03-18,3
+17675,田建华,女,62,United Kingdom,United Kingdom,2011-07-20,3
+17682,陈玉梅,女,52,United Kingdom,United Kingdom,2011-07-19,2
+17686,苏晶,男,40,United Kingdom,United Kingdom,2011-05-23,1
+17690,孙敏,女,50,United Kingdom,United Kingdom,2010-12-08,3
+17691,靳亮,女,32,United Kingdom,United Kingdom,2010-12-06,4
+17693,张志强,女,52,United Kingdom,United Kingdom,2011-07-25,4
+17696,马桂荣,女,35,United Kingdom,United Kingdom,2011-11-01,1
+17702,何利,男,35,United Kingdom,United Kingdom,2011-05-17,4
+17706,陈燕,女,28,United Kingdom,United Kingdom,2011-10-10,2
+17708,李莉,男,45,United Kingdom,United Kingdom,2011-06-05,2
+17715,张晶,男,40,United Kingdom,United Kingdom,2011-05-23,5
+17716,李艳,男,56,United Kingdom,United Kingdom,2011-04-04,2
+17718,吴辉,女,27,United Kingdom,United Kingdom,2011-04-21,4
+17723,刘雷,女,45,United Kingdom,United Kingdom,2011-05-09,2
+17725,饶欣,男,54,United Kingdom,United Kingdom,2011-03-17,3
+17730,李旭,女,71,United Kingdom,United Kingdom,2011-04-20,4
+17733,李飞,男,42,United Kingdom,United Kingdom,2011-11-01,1
+17735,李莹,女,35,United Kingdom,United Kingdom,2011-06-05,4
+17757,叶凯,男,42,United Kingdom,United Kingdom,2011-01-27,3
+17758,柳宇,女,55,United Kingdom,United Kingdom,2011-05-15,1
+17769,慕岩,女,55,United Kingdom,United Kingdom,2011-11-06,2
+17781,孟俊,女,38,United Kingdom,United Kingdom,2011-03-31,2
+17787,李丽华,女,55,United Kingdom,United Kingdom,2011-02-08,1
+17790,张雪梅,女,39,United Kingdom,United Kingdom,2011-08-11,1
+17793,胡春梅,男,50,United Kingdom,United Kingdom,2011-11-14,1
+17799,张楠,男,46,United Kingdom,United Kingdom,2011-01-21,1
+17800,陈秀芳,女,35,United Kingdom,United Kingdom,2011-05-06,2
+17809,王丽,男,28,United Kingdom,United Kingdom,2011-02-11,3
+17811,胡荣,女,54,United Kingdom,United Kingdom,2011-11-14,2
+17813,李海燕,男,58,United Kingdom,United Kingdom,2011-09-29,3
+17817,周艳,男,44,United Kingdom,United Kingdom,2011-12-05,2
+17827,花兰英,女,39,United Kingdom,United Kingdom,2010-12-10,1
+17830,高桂芝,女,25,United Kingdom,United Kingdom,2011-02-24,3
+17841,关桂花,女,54,United Kingdom,United Kingdom,2010-12-06,1
+17848,吴博,男,43,United Kingdom,United Kingdom,2011-06-23,1
+17849,杨建平,男,36,United Kingdom,United Kingdom,2011-01-10,3
+17850,庞萍,男,50,United Kingdom,United Kingdom,2010-12-02,3
+17856,孟桂香,男,23,United Kingdom,United Kingdom,2011-04-20,2
+17857,汪敏,女,27,United Kingdom,United Kingdom,2011-11-07,1
+17864,李秀英,女,31,United Kingdom,United Kingdom,2011-03-09,1
+17865,何华,男,46,United Kingdom,United Kingdom,2011-07-01,4
+17870,梁冬梅,男,42,United Kingdom,United Kingdom,2011-11-08,3
+17874,苗雷,男,47,United Kingdom,United Kingdom,2011-03-29,1
+17883,刘玉珍,男,53,United Kingdom,United Kingdom,2011-09-14,4
+17884,兰涛,女,48,United Kingdom,United Kingdom,2010-12-03,1
+17886,华建,女,62,United Kingdom,United Kingdom,2011-05-13,2
+17888,史金凤,女,53,United Kingdom,United Kingdom,2011-01-26,2
+17890,张明,女,38,United Kingdom,United Kingdom,2011-01-21,2
+17913,王建平,男,33,United Kingdom,United Kingdom,2011-10-12,3
+17924,郭伟,女,38,United Kingdom,United Kingdom,2011-11-28,4
+17928,柳杨,男,48,United Kingdom,United Kingdom,2011-04-07,1
+17932,杨东,女,34,United Kingdom,United Kingdom,2011-05-12,4
+17940,王峰,女,48,United Kingdom,United Kingdom,2011-08-23,1
+17946,金云,女,47,United Kingdom,United Kingdom,2011-04-20,5
+17949,黄桂珍,男,28,United Kingdom,United Kingdom,2011-03-02,3
+17950,杨凤英,女,53,United Kingdom,United Kingdom,2010-12-09,1
+17951,郎淑兰,男,44,United Kingdom,United Kingdom,2010-12-01,1
+17954,萧雷,女,62,United Kingdom,United Kingdom,2011-04-27,1
+17961,刘雷,女,39,United Kingdom,United Kingdom,2011-05-27,1
+17965,陈英,男,36,United Kingdom,United Kingdom,2011-07-28,2
+17966,张伟,女,27,United Kingdom,United Kingdom,2011-06-08,3
+17974,龚超,男,27,United Kingdom,United Kingdom,2011-10-26,1
+17986,许建平,女,51,United Kingdom,United Kingdom,2011-10-14,4
+17988,盛建,女,60,United Kingdom,United Kingdom,2011-11-27,1
+17990,姜静,男,38,United Kingdom,United Kingdom,2010-12-21,3
+17991,鞠志强,女,37,United Kingdom,United Kingdom,2011-04-27,1
+17994,阎颖,女,40,United Kingdom,United Kingdom,2011-08-10,1
+17997,王利,男,53,United Kingdom,United Kingdom,2011-07-10,3
+18005,杜倩,男,28,United Kingdom,United Kingdom,2011-10-23,1
+18006,韦伟,女,42,United Kingdom,United Kingdom,2011-11-16,4
+18017,吴婷婷,男,51,United Kingdom,United Kingdom,2011-09-19,4
+18018,樊金凤,男,46,United Kingdom,United Kingdom,2011-05-24,2
+18036,黄淑珍,男,18,United Kingdom,United Kingdom,2011-04-08,1
+18041,段芳,男,48,United Kingdom,United Kingdom,2011-11-03,2
+18044,徐超,女,46,United Kingdom,United Kingdom,2011-11-03,4
+18055,王秀兰,男,56,United Kingdom,United Kingdom,2011-02-21,2
+18065,王兵,男,59,United Kingdom,United Kingdom,2011-05-04,2
+18066,张宇,男,55,United Kingdom,United Kingdom,2011-09-25,3
+18073,杨秀华,男,40,United Kingdom,United Kingdom,2011-05-26,1
+18075,周志强,男,20,United Kingdom,United Kingdom,2010-12-14,2
+18078,张帅,男,66,United Kingdom,United Kingdom,2011-03-25,5
+18092,张坤,男,37,United Kingdom,United Kingdom,2011-06-08,2
+18093,苏燕,女,40,United Kingdom,United Kingdom,2011-02-10,2
+18094,陈帆,男,60,United Kingdom,United Kingdom,2011-04-15,1
+18097,吴小红,男,31,United Kingdom,United Kingdom,2010-12-20,2
+18102,王伟,女,24,United Kingdom,United Kingdom,2010-12-07,1
+18109,李荣,男,34,United Kingdom,United Kingdom,2011-05-29,5
+18118,李文,男,31,United Kingdom,United Kingdom,2011-03-02,1
+18122,彭浩,女,23,United Kingdom,United Kingdom,2011-07-12,2
+18123,贺秀珍,男,39,United Kingdom,United Kingdom,2011-11-08,1
+18129,马燕,男,40,United Kingdom,United Kingdom,2011-04-10,1
+18139,彭冬梅,男,22,United Kingdom,United Kingdom,2011-11-22,1
+18142,黄春梅,男,36,United Kingdom,United Kingdom,2011-05-08,3
+18145,张平,男,30,United Kingdom,United Kingdom,2011-11-27,2
+18154,徐燕,女,18,United Kingdom,United Kingdom,2011-12-06,4
+18158,史飞,男,41,United Kingdom,United Kingdom,2011-11-30,2
+18160,崔帆,女,42,United Kingdom,United Kingdom,2011-05-23,1
+18169,董秀梅,男,30,United Kingdom,United Kingdom,2011-10-10,1
+18170,罗冬梅,男,52,United Kingdom,United Kingdom,2011-11-06,2
+18172,冷淑华,女,40,United Kingdom,United Kingdom,2011-05-12,3
+18178,马浩,男,31,United Kingdom,United Kingdom,2011-02-03,2
+18179,章超,男,21,United Kingdom,United Kingdom,2011-11-30,2
+18198,李秀芳,女,43,United Kingdom,United Kingdom,2011-02-24,2
+18210,祁志强,男,46,United Kingdom,United Kingdom,2011-03-17,1
+18215,孟阳,男,34,United Kingdom,United Kingdom,2011-09-11,1
+18221,周淑兰,女,41,United Kingdom,United Kingdom,2011-11-17,1
+18223,危峰,女,59,United Kingdom,United Kingdom,2011-03-06,1
+18225,杨波,女,50,United Kingdom,United Kingdom,2011-03-20,2
+18226,吴桂珍,男,18,United Kingdom,United Kingdom,2011-04-27,1
+18229,钱桂芳,女,31,United Kingdom,United Kingdom,2011-05-25,2
+18245,韦婷婷,男,38,United Kingdom,United Kingdom,2011-01-31,1
+18252,赵峰,男,40,United Kingdom,United Kingdom,2011-06-21,2
+18259,阮帅,女,42,United Kingdom,United Kingdom,2010-12-08,3
+18260,武红梅,女,45,United Kingdom,United Kingdom,2011-06-20,2
+18278,刘桂芝,男,38,United Kingdom,United Kingdom,2011-09-27,2
+18281,王丹,男,40,United Kingdom,United Kingdom,2011-06-12,4
+18282,李莹,女,51,United Kingdom,United Kingdom,2011-08-05,3
+18283,吴玉英,女,43,United Kingdom,United Kingdom,2011-11-10,1
+18287,王淑华,女,26,United Kingdom,United Kingdom,2011-05-22,1

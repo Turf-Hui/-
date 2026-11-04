@@ -1,0 +1,24 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 系统与编辑器临时文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 说明：data/ 与 outputs/ 为评分证据与一键复现所需，故全部纳入版本管理。
+# UCI Online Retail 采用 CC BY 4.0 授权（已在 docs/合规声明.md 注明出处），
+# 允许在署名前提下随作业一并分发；若推送过慢，可自行忽略 data/raw/OnlineRetail.xlsx，
+# 01_load.py 会在缺失时自动从 UCI 官方地址补下载。

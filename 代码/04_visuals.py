@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 04_visuals.py —— 数据可视化（全 Python 实现）
+============================================
+产出要求：
+  - 图表总数 ≥10 张；模板复现 ≥10 种；业务模型图 ≥6 张（与 03 模型一一对应）
+  - 分辨率 ≥150 dpi，统一命名 fig01_xxx.png，中文字体正常显示
+对照《Excel数据可视化——从图表到数据大屏》典型模板，使用 Matplotlib/Seaborn 复现。
 """
 from __future__ import annotations
 import os

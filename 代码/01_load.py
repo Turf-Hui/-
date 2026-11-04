@@ -1,4 +1,42 @@
 # -*- coding: utf-8 -*-
+"""
+01_load.py —— 数据获取（合规、非爬虫）
+=====================================
+主数据源（课程《要求及评分标准》附件 A 白名单）：UCI Online Retail 在线零售交易数据集
+
+  - 数据源名称：Online Retail（UCI Machine Learning Repository, Dataset ID 352）
+  - 官方链接 ：https://archive.ics.uci.edu/dataset/352/online+retail
+               https://archive.ics.uci.edu/ml/datasets/Online+Retail
+  - 下载文件 ：https://archive.ics.uci.edu/static/public/352/online+retail.zip
+               （或 https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx）
+  - 获取方式 ：数据源官方提供的一次性下载文件（ZIP/XLSX）——白名单方式之一，非爬虫
+  - 获取日期 ：2026-11-04
+  - 授权/License：UCI Machine Learning Repository 公开数据集，供学术研究与教学使用，
+               引用须标注来源（Chen, D. (2015). Online Retail [Dataset]. UCI ML Repository）。
+  - 原始规模 ：541,909 行、8 字段，时间跨度 2010-12-01 ~ 2011-12-09
+
+原始 8 字段（真实、未改动）：
+  InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+
+抽样（课程 2.1 第 3 条要求说明抽样方法与随机种子）：
+  - 方法：以「发票 InvoiceNo」为抽样单元做等概率无放回随机抽样，保留 SAMPLE_INVOICES 张
+    发票的**全部明细行**，从而保持购物篮/订单内商品关联结构不被破坏；
+  - 随机种子：RANDOM_SEED = 42（numpy RandomState）；
+  - 目的：原始 54 万行过大，抽样后约 2–3 万行，仍远超"主表不少于 500 条"要求，
+          并显著降低 Apriori / 可视化的计算开销。
+
+补充数据（课程 2.1 第 3 条："若所选数据源规模不足，可用 Faker 按给定 Schema 补充生成
+维度表或明细表，**补充部分须单独标注**"）——UCI 数据集不含以下字段，故单独补充并标注：
+  · 客户维度 gender / age / member_level：Faker 生成【补充】
+  · 商品维度 category / sub_category / brand：由真实 Description 关键词规则派生 + Faker 生成【补充】
+  · 商品维度 cost / price：由真实 UnitPrice 派生（price 取该商品单价中位数，cost 按 0.6 毛利率估算）【补充估算】
+  · 交易维度 channel / payment：Faker 生成【补充】
+  · 评论明细 fact_reviews：UCI 无评论文本，由 Faker 生成中文评论【补充】，仅用于情感分析模型
+以上补充部分在 README、docs/合规声明.md、论文第 2 章均单独标注，绝不与真实主源混淆。
+
+下游 02_clean / 03_analysis / 04_visuals / 05_dashboard 读取的四张 raw CSV 字段与原版一致，
+因此整条分析链路可复用，只需替换数据获取层。
+"""
 from __future__ import annotations
 import os
 import json
